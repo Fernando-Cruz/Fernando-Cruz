@@ -5,22 +5,22 @@ Olá! Meu nome é Fernando Oliveira da Cruz e sou um desenvolvedor junior apaixo
 <h2>O que você encontrará aqui?</h2>
 Este repositório é um espaço para documentar meu aprendizado e mostrar o que venho construindo. Aqui você pode encontrar:<p></p>
 
-<strong>Projetos de estudo:</strong> Pequenos projetos que contribui para desenvolver ou que criei por conta própria.
+<li><strong>Projetos de estudo:</strong> Pequenos projetos que contribui para desenvolver ou que criei por conta própria.</li>
 
-<strong>Exercícios:</strong> Resoluções de desafios e exercícios de programação.
+<li><strong>Exercícios:</strong> Resoluções de desafios e exercícios de programação.</li>
 
-<strong>Anotações:</strong> Resumos de cursos, tutoriais e artigos que estou estudando.
+<li><strong>Anotações:</strong> Resumos de cursos, tutoriais e artigos que estou estudando.</li>
 
 <h2> Minhas tecnologias de estudo</h2>
 Estou em constante evolução e me aprofundando em diversas tecnologias. As principais que estou estudando no momento são:<p></p>
 
-<strong>Linguagens de Programação:</strong> Vb, Vb.NET, Python
+<li><strong>Linguagens de Programação:</strong> Vb, Vb.NET, Python</li>
 
-<strong>Front-End: </strong> HTML, CSS
+<li><strong>Front-End: </strong> HTML, CSS</li>
 
-<strong>Back-End:</strong> 
+<li><strong>Back-End:</strong></li> 
 
-<strong>Bancos de Dados:</strong> PostgreSQL
+<li><strong>Bancos de Dados:</strong> PostgreSQL</li>
 
 <h2>Vamos nos conectar!</h2>
 Se você tiver alguma dica, sugestão ou simplesmente quiser conversar sobre código, sinta-se à vontade para me contatar. Adoro trocar ideias com outros desenvolvedores!
