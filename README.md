@@ -1,6 +1,38 @@
-# 👩🏻‍💻 Fernando Cruz
+# 👩🏻‍💻 Boas-vindas ao meu mundo de código!
 
-**`Desenvolvedor de Software`**
+Olá! Meu nome é Fernando Oliveira da Cruz e sou um desenvolvedor junior apaixonado por tecnologia. Atualmente, estou focado em aprender e crescer no mundo da programação, e este é o lugar onde você pode acompanhar minha jornada.
+
+<h2>O que você encontrará aqui?</h2>
+Este repositório é um espaço para documentar meu aprendizado e mostrar o que venho construindo. Aqui você pode encontrar:
+
+<strong>Projetos de estudo:</strong> Pequenos projetos que ajudei a desenvolver ou que criei por conta própria.
+
+<strong>Exercícios:</strong> Resoluções de desafios e exercícios de programação.
+
+<strong>Anotações:</strong> Resumos de cursos, tutoriais e artigos que estou estudando.
+
+<h2> Minhas tecnologias de estudo</h2>
+Estou em constante evolução e me aprofundando em diversas tecnologias. As principais que estou estudando no momento são:
+
+<strong>Linguagens de Programação:</strong> Vb, Vb.NET, Python
+
+<strong>Front-End: </strong> HTML, CSS
+
+<strong>Back-End:</strong> 
+
+<strong>Bancos de Dados:</strong> PostgreSQL
+
+<h2>Vamos nos conectar!</h2>
+Se você tiver alguma dica, sugestão ou simplesmente quiser conversar sobre código, sinta-se à vontade para me contatar. Adoro trocar ideias com outros desenvolvedores!
+
+**`LinkedIn:`** https://www.linkedin.com/in/fernando-cruz-90393583
+
+**`Email:`** fernando.oc@live.com
+
+Obrigado por visitar meu perfil!
+
+"A melhor maneira de prever o futuro é criá-lo." - Peter Drucker
+
 <!--
 Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
