@@ -3,16 +3,16 @@
 Olá! Meu nome é Fernando Oliveira da Cruz e sou um desenvolvedor junior apaixonado por tecnologia. Atualmente, estou focado em aprender e crescer no mundo da programação, e este é o lugar onde você pode acompanhar minha jornada.
 
 <h2>O que você encontrará aqui?</h2>
-Este repositório é um espaço para documentar meu aprendizado e mostrar o que venho construindo. Aqui você pode encontrar:
+Este repositório é um espaço para documentar meu aprendizado e mostrar o que venho construindo. Aqui você pode encontrar:<p></p>
 
-<strong>Projetos de estudo:</strong> Pequenos projetos que ajudei a desenvolver ou que criei por conta própria.
+<strong>Projetos de estudo:</strong> Pequenos projetos que contribui para desenvolver ou que criei por conta própria.
 
 <strong>Exercícios:</strong> Resoluções de desafios e exercícios de programação.
 
 <strong>Anotações:</strong> Resumos de cursos, tutoriais e artigos que estou estudando.
 
 <h2> Minhas tecnologias de estudo</h2>
-Estou em constante evolução e me aprofundando em diversas tecnologias. As principais que estou estudando no momento são:
+Estou em constante evolução e me aprofundando em diversas tecnologias. As principais que estou estudando no momento são:<p></p>
 
 <strong>Linguagens de Programação:</strong> Vb, Vb.NET, Python
 
