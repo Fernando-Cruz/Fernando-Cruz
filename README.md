@@ -14,7 +14,7 @@ Este repositório é um espaço para documentar meu aprendizado e mostrar o que 
 <h2> Minhas tecnologias de estudo</h2>
 Estou em constante evolução e me aprofundando em diversas tecnologias. As principais que estou estudando no momento são:<p></p>
 
-<li><strong>Linguagens de Programação:</strong> Vb, Vb.NET, Python</li>
+<li><strong>Linguagens de Programação:</strong> Java, Python, Vb, Vb.NET. </li>
 
 <li><strong>Front-End: </strong> HTML, CSS</li>
 
