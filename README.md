@@ -18,7 +18,7 @@ Estou em constante evolução e me aprofundando em diversas tecnologias. As prin
 
 <li><strong>Front-End: </strong> HTML, CSS</li>
 
-<li><strong>Back-End:</strong></li> 
+<li><strong>Back-End:</strong> Java, Python</li> 
 
 <li><strong>Bancos de Dados:</strong> PostgreSQL</li>
 
